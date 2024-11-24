@@ -6,9 +6,9 @@ Last Updated: 20-11-2024
 RijbewijsTracker respects your privacy and is committed to safeguarding your personal information. This Privacy Policy explains how we collect, use, store, and protect your information when you use our services, including our driving session recording feature. Please read this policy carefully to understand our practices regarding your data.
 
 ## Information We Collect
-a. Driving Session Location Data: We collect and store location data only during the recording of a driving session. This data is used exclusively to provide and improve the functionality of our driving-related services.
-b. Other Information You Provide If you create an account, contact us, or otherwise interact with our services: We may collect information such as: Your name, email address, and other contact details you provide.
-c. Automatically Collected Information When you use our services: We may collect non-personal information such as: Device type, operating system, and usage statistics.
+- Driving Session Location Data: We collect and store location data only during the recording of a driving session. This data is used exclusively to provide and improve the functionality of our driving-related services.
+- Other Information You Provide If you create an account, contact us, or otherwise interact with our services: We may collect information such as: Your name, email address, and other contact details you provide.
+- Automatically Collected Information When you use our services: We may collect non-personal information such as: Device type, operating system, and usage statistics.
 
 ## How We Use Your Information
 We use the information we collect to provide and improve our services, particularly those related to driving session tracking. Ensure the  functionality and security of our platform. Respond to your inquiries and support requests.
